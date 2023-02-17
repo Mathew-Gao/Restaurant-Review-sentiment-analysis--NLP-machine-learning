@@ -1,6 +1,6 @@
 # Restaurant Review Sentiment Analysis
 
-This GitHub repository contains an application for sentiment analysis on restaurant reviews, using a polarity dictionary to identify positive and negative words. The repository includes a polarity dictionary, a dataset and dictionary for all four aspects of restaurant reviews, and saved configurations and results from previous runs of the model. These results are used for graphing and reporting on the application's performance.
+This GitHub repository contains an application for sentiment analysis on restaurant reviews, using a polarity dictionary to identify positive and negative words. The repository includes a polarity dictionary, a dataset and dictionary for all four aspects of restaurant reviews, and saved configurations and results from previous runs of the a variety of machine learning models. These results are used for graphing and reporting on the application's performance.
 
 # Submitted Files
 
