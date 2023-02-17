@@ -1,0 +1,17 @@
+name,value
+memory,None
+steps,"('clf', LinearSVC(C=0.16, class_weight='balanced', max_iter=10000, random_state=99))"
+verbose,FALSE
+clf,"LinearSVC(C=0.16, class_weight='balanced', max_iter=10000, random_state=99)"
+clf__C,0.16
+clf__class_weight,balanced
+clf__dual,TRUE
+clf__fit_intercept,TRUE
+clf__intercept_scaling,1
+clf__loss,squared_hinge
+clf__max_iter,10000
+clf__multi_class,ovr
+clf__penalty,l2
+clf__random_state,99
+clf__tol,0.0001
+clf__verbose,0

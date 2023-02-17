@@ -1,0 +1,8 @@
+name,value
+memory,None
+steps,"('clf', MultinomialNB(alpha=0.1))"
+verbose,False
+clf,MultinomialNB(alpha=0.1)
+clf__alpha,0.1
+clf__class_prior,None
+clf__fit_prior,True

@@ -1,0 +1,22 @@
+name,value
+memory,None
+steps,"('clf', LogisticRegression(C=1, class_weight='balanced', max_iter=10000,
+                   random_state=99, solver='newton-cg'))"
+verbose,False
+clf,"LogisticRegression(C=1, class_weight='balanced', max_iter=10000,
+                   random_state=99, solver='newton-cg')"
+clf__C,1
+clf__class_weight,balanced
+clf__dual,False
+clf__fit_intercept,True
+clf__intercept_scaling,1
+clf__l1_ratio,None
+clf__max_iter,10000
+clf__multi_class,auto
+clf__n_jobs,None
+clf__penalty,l2
+clf__random_state,99
+clf__solver,newton-cg
+clf__tol,0.0001
+clf__verbose,0
+clf__warm_start,False
